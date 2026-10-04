@@ -1,0 +1,10 @@
+{
+  "deployment_identity": "legavik-native-delivery-a-integration-20261004-1",
+  "canonical_origin": "https://sixtrees778899-stack.github.io",
+  "canonical_base": "/LEGAVIK-native-delivery-a-qa",
+  "repository": "sixtrees778899-stack/LEGAVIK-native-delivery-a-qa",
+  "branch": "qa-candidate",
+  "environment_type": "TRACK_B_INTEGRATION_QA",
+  "backend_project_ref": "vtaielvbknzunowmskkc",
+  "status": "QA ONLY"
+}
